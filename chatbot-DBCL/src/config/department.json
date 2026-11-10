@@ -1,0 +1,31 @@
+{
+  "short": "ĐBCL",
+  "name": "Phòng Đảm bảo chất lượng",
+  "topics": [
+    [
+      "Khảo sát & phản hồi",
+      "Góp ý học phần và hoạt động đào tạo",
+      "Tôi muốn tham gia khảo sát học phần",
+      "Bạn có thể chuẩn bị mã học phần, học kỳ và nội dung phản hồi. Khi triển khai chính thức, mục này sẽ kết nối danh sách khảo sát của phòng."
+    ],
+    [
+      "Kiểm định chất lượng",
+      "Tiêu chuẩn, quy trình và minh chứng",
+      "Tôi cần chuẩn bị minh chứng kiểm định như thế nào?",
+      "Bạn có thể phân nhóm minh chứng theo tiêu chuẩn, ghi rõ tên tài liệu, đơn vị phụ trách, thời điểm ban hành và phiên bản. Danh mục chính thức cần được phòng xác nhận."
+    ],
+    [
+      "Đảm bảo chất lượng nội bộ",
+      "Tự đánh giá và cải tiến chất lượng",
+      "Kế hoạch cải tiến chất lượng gồm những gì?",
+      "Một kế hoạch tham khảo gồm vấn đề cần cải tiến, mục tiêu, hoạt động, đơn vị phụ trách, thời hạn và minh chứng kết quả."
+    ],
+    [
+      "Biểu mẫu & hướng dẫn",
+      "Tra cứu tài liệu theo nhu cầu",
+      "Tôi tìm biểu mẫu tự đánh giá ở đâu?",
+      "Hãy cho biết loại báo cáo và đơn vị của bạn để xác định biểu mẫu phù hợp. Bản mẫu hiện chưa kết nối kho tài liệu chính thức."
+    ]
+  ],
+  "id": "dbcl"
+}
